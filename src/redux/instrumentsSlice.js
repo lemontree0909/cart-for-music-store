@@ -3,7 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 export const instrumentsSlice = createSlice({
     name: 'instruments',
     initialState: {
-        selectedCategory: "GUITARS"
+        selectedCategory: "ALL"
     },
     reducers: {
         filterCategory: (state, action) => {
