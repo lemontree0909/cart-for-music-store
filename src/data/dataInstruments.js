@@ -115,7 +115,7 @@ const dataInstruments = [
     {
       id: 15,
       name: "Stentor 1108/C Student II Cello (3/4)",
-      category: "SPRINGS",
+      category: "STRINGS",
       price: "749.99",
       image: "https://images.unsplash.com/photo-1582137580427-be755c6302cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNlbGxvfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=800&q=60"
     },
@@ -123,7 +123,7 @@ const dataInstruments = [
     {
       id: 16,
       name: "Strunal 205WA Violin (4/4)",
-      category: "SPRINGS",
+      category: "STRINGS",
       price: "949.99",
       image: "https://images.unsplash.com/photo-1629155755517-f63062249c1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fHZpb2xpbnxlbnwwfDF8MHx8&auto=format&fit=crop&w=800&q=60"
     },
