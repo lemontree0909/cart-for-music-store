@@ -13,7 +13,7 @@ const Instruments = () => {
                 if (selectedCategory === 'ALL') return true;
                 return selectedCategory === instrument.category;
             })
-            .map(instrument => <Instrument key={instrument} instrument={instrument}/>)}
+            .map((instrument, id) => <Instrument key={id} instrument={instrument}/>)}
         </div>
     )
 }
