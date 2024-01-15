@@ -63,3 +63,28 @@
   right: 20px;
   z-index: 5;
 }
+
+
+@media all and (max-width:500px) {
+
+p, h1, h2, h5, button {
+  font-size: 12px;
+}
+
+.categoryButton {
+  margin: 0;
+  padding: 0;
+}
+.cart-dropdown-container {
+  width: 250px;
+}
+
+.cart-items {
+  border: 1px solid black;
+  padding: 0 15px;
+  font-size: 13px;
+  width: 200px;
+  font-size: 18px;
+  margin: 10px auto;
+}
+}
